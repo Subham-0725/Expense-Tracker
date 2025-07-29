@@ -31,6 +31,10 @@ A minimal and responsive **Expense Tracker Web App** built using HTML, CSS, and 
 - Array methods (push, filter, reduce)
 - Local Storage for persistent data
 
+📄 License
+
+This project is open-source and free to use for learning and development purposes.
+
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
